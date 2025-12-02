@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "世界はそれを愛と呼ぶんだぜ",
+  "base_artist": "Sambomaster",
+  "createdAt": "2025-12-02T20:17:57.270154Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "Sambomaster",
+      "has_synced": false,
+      "path": "select/01_世界はそれを愛と呼ぶんだぜ_Sambomaster.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/02_世界はそれを愛と呼ぶんだぜ_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/03_世界はそれを愛と呼ぶんだぜ_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/04_世界はそれを愛と呼ぶんだぜ_サンボマスター.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ(アルバムバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/05_世界はそれを愛と呼ぶんだぜ(アルバムバージョン)_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/06_世界はそれを愛と呼ぶんだぜ_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/07_世界はそれを愛と呼ぶんだぜ_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ - Sekaiwa Sorewo Aito Yobundaze",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/08_世界はそれを愛と呼ぶんだぜ_-_Sekaiwa_Sorewo_Aito_Yobundaze_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ (アコースティックスタジオライブ at アバコ301)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/09_世界はそれを愛と呼ぶんだぜ_(アコースティックスタジオライブ_at_アバコ301)_サンボマスター.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "Fear",
+      "has_synced": true,
+      "path": "select/10_世界はそれを愛と呼ぶんだぜ_Fear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "世界はそれを愛と呼ぶんだぜ [Live]",
+      "artist": "Sambomaster",
+      "has_synced": false,
+      "path": "select/11_世界はそれを愛と呼ぶんだぜ_[Live]_Sambomaster.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_世界はそれを愛と呼ぶんだぜ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_02_世界はそれを愛と呼ぶんだぜ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_03_世界はそれを愛と呼ぶんだぜ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_04_世界はそれを愛と呼ぶんだぜ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_05_世界はそれを愛と呼ぶんだぜ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_06_世界はそれを愛と呼ぶんだぜ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_07_世界はそれを愛と呼ぶんだぜ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ(アルバムバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_08_世界はそれを愛と呼ぶんだぜ(アルバムバージョン)_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ(アルバムバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_09_世界はそれを愛と呼ぶんだぜ(アルバムバージョン)_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "世界はそれを愛と呼ぶんだぜ(アルバムバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_10_世界はそれを愛と呼ぶんだぜ(アルバムバージョン)_サンボマスター.txt"
+    }
+  ]
+}
